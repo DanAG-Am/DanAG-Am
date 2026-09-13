@@ -2,7 +2,7 @@
 
 ### Computer Science & Technology student building intelligent, data-driven systems
 
-I'm a Computer Science & Technology student at [Tecnológico de Monterrey](https://tec.mx/en), interested in **AI, data, and software engineering**.
+I'm a Computer Science & Technology student at [Tecnológico de Monterrey](https://tec.mx/en), interested in **AI, data and business + tech roles**.
 
 I enjoy building systems that turn data into useful decisions, from machine learning models and analytics pipelines to full-stack applications and AI-powered tools.
 
